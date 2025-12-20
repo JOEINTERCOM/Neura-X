@@ -1,5 +1,7 @@
 🚀 NEURA-X Edge AI Computing
-( https://github.com/JOEINTERCOM/Vortex.AI/blob/main/Screenshot%202025-12-20%20174244.png?raw=true)](https://projectneura-x.netlify.app)
+
+(https://github.com/JOEINTERCOM/Neura-X/blob/main/Screenshot%202025-12-20%20181309.png?raw=true)](https://projectneura-x.netlify.app)
+
 🌐 Project Overview
 
 NEURA-X is a futuristic Edge AI Computing landing page showcasing quantum-engineered intelligence for next-gen devices.
