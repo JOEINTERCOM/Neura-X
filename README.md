@@ -27,3 +27,12 @@ Responsive Flexbox Design
 
 Netlify Deployment
 
+🚀 Deploy in 30s
+
+Download folder
+
+Drag to Netlify
+
+Live instantly
+
+"The Future of Edge AI Computing"
