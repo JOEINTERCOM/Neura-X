@@ -1,6 +1,6 @@
 🚀 NEURA-X Edge AI Computing
 
-(https://github.com/JOEINTERCOM/Neura-X/blob/main/Screenshot%202025-12-20%20181309.png?raw=true)](https://projectneura-x.netlify.app)
+[![Neura-X Dashboard](https://github.com/JOEINTERCOM/Neura-X/blob/main/Screenshot%202025-12-20%20181309.png?raw=true)](https://projectneura-x.netlify.app)
 
 🌐 Project Overview
 
