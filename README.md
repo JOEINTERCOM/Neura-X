@@ -1,6 +1,6 @@
  🚀 NEURA-X Edge AI Computing
 
-[![Neura-X Dashboard](https://github.com/JOEINTERCOM/Neura-X/blob/main/Screenshot%202025-12-20%20181309.png?raw=true)](https://projectneura-x.netlify.app)
+[![Neura-X Dashboard](https://github.com/JOEINTERCOM/Neura-X/blob/main/Screenshot%202025-12-20%20181309.png?raw=true)](https://joeintercom.github.io/Neura-X/)
 
  🌐 Project Overview
  
@@ -29,7 +29,7 @@ Highlights 12ms real-time processing, 10x GPU performance, 2W consumption, self-
 
 • Responsive Flexbox Design
 
-• Netlify Deployment
+• Github Pages Deployment
 
  🚀 Deploy in 30s
  
