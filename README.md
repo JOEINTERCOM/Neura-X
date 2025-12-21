@@ -35,7 +35,7 @@ Highlights 12ms real-time processing, 10x GPU performance, 2W consumption, self-
  
 • Download folder
 
-• Drag to Netlify
+• Drag to Github Pages
 
 • Live instantly
 
