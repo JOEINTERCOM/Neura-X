@@ -787,10 +787,17 @@ body {
   .vision-desc{
     width: 100%;
     margin-left: 0;
+     font-size: 14px;          /* smaller text */
+    line-height: 1.4;         /* tighter lines */
+    letter-spacing: 0.01em;   /* slightly tighter letters */
+    padding-right: 0;         /* no extra push to the right */
+    padding-left: 16px;       /* safe margin inside screen */
+    box-sizing: border-box;
   }
   html, body{
   max-width: 100%;
   overflow-x: hidden;
 }
 }
+
 
