@@ -772,4 +772,17 @@ body {
     opacity: 1;
     transform: translateY(0);
   }
+
+}
+
+
+@media (max-width: 425px) {
+  .vision-visual{
+    position: relative;
+    right: 20px;
+  }
+  .vision-desc{
+    width: 100%;
+    margin-left: 0;
+  }
 }
