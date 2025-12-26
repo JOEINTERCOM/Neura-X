@@ -787,12 +787,11 @@ body {
   .vision-desc{
  position: relative;      /* allow shifting */
     left: 0;                 /* reset any right-shift */
-    margin-left: 0;
-    margin-right: 0;
-    padding: 0 16px;         /* pull it inside screen with safe side padding */
+    
+        /* pull it inside screen with safe side padding */
     max-width: 100%;
     box-sizing: border-box;
-
+transform: translateX(-10px);
     font-size: 15px;         /* a bit bigger */
     line-height: 1.5;
   }
@@ -801,6 +800,7 @@ body {
   overflow-x: hidden;
 }
 }
+
 
 
 
