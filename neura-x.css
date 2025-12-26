@@ -785,19 +785,22 @@ body {
     right: 20px;
   }
   .vision-desc{
-    width: 100%;
+ position: relative;      /* allow shifting */
+    left: 0;                 /* reset any right-shift */
     margin-left: 0;
-     font-size: 14px;          /* smaller text */
-    line-height: 1.4;         /* tighter lines */
-    letter-spacing: 0.01em;   /* slightly tighter letters */
-    padding-right: 0;         /* no extra push to the right */
-    padding-left: 16px;       /* safe margin inside screen */
+    margin-right: 0;
+    padding: 0 16px;         /* pull it inside screen with safe side padding */
+    max-width: 100%;
     box-sizing: border-box;
+
+    font-size: 15px;         /* a bit bigger */
+    line-height: 1.5;
   }
   html, body{
   max-width: 100%;
   overflow-x: hidden;
 }
 }
+
 
 
