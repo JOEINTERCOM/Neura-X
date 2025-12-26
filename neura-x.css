@@ -786,13 +786,15 @@ body {
   }
   .vision-desc{
  position: relative;      /* allow shifting */
-    left: 0;                 /* reset any right-shift */
+    left: 0;
+  word-wrap: break-word;
+    overflow-wrap: break-word;
     
         /* pull it inside screen with safe side padding */
     max-width: 100%;
     box-sizing: border-box;
 transform: translateX(-10px);
-    font-size: 15px;         /* a bit bigger */
+    font-size: 20px;         /* a bit bigger */
     line-height: 1.5;
   }
   html, body{
@@ -800,6 +802,7 @@ transform: translateX(-10px);
   overflow-x: hidden;
 }
 }
+
 
 
 
