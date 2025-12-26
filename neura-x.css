@@ -785,23 +785,26 @@ body {
     right: 20px;
   }
   .vision-desc{
- position: relative;      /* allow shifting */
-    left: 0;
-  word-wrap: break-word;
-    overflow-wrap: break-word;
-    
-        /* pull it inside screen with safe side padding */
-    max-width: 100%;
+max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;          /* keeps it inside screen */
     box-sizing: border-box;
-transform: translateX(-10px);
-    font-size: 20px;         /* a bit bigger */
+
+    position: static;         /* cancels left/right shifts */
+    transform: none;
+
+    font-size: 19px;
     line-height: 1.5;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
   }
   html, body{
   max-width: 100%;
   overflow-x: hidden;
 }
 }
+
 
 
 
