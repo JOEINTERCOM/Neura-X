@@ -35,7 +35,10 @@ body {
   line-height: 1.6;
   min-height: 400vh;
 }
-
+html, body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
 /* LOADER */
 .loader {
   position: fixed;
@@ -785,4 +788,9 @@ body {
     width: 100%;
     margin-left: 0;
   }
+  html, body{
+  max-width: 100%;
+  overflow-x: hidden;
 }
+}
+
